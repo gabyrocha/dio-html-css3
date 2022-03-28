@@ -1,2 +1,3 @@
-# dio-html-css3-js
-Repositório com anotações e projetos relacionados à HTML, CSS3 e JS
+# Projeto HTML e CSS3
+
+Repositório com projeto e anotações relacionados à HTML e CSS3 
